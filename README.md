@@ -1,7 +1,8 @@
-### 🇷🇺 RU / 🇬🇧 EN
+### 🇷🇺 [RU](#ru) / 🇬🇧 [EN](#en)
 
 ---
 
+<a id="ru"></a>
 ### Привет, я Lissnikk 👋
 
 DevOps-инженер с фокусом на автоматизацию и локальные AI-решения. 
@@ -9,7 +10,7 @@ DevOps-инженер с фокусом на автоматизацию и ло�
 
 #### 🛠 Стек
 - **Языки:** Python, Go (изучаю/применяю), Bash
-- **Инфраструктура:** Kubernetes, Podman, Docker, Ansible, RouterOS, longhorn, AWS S3
+- **Инфраструктура:** Kubernetes, Podman, Docker, Ansible, RouterOS, Longhorn, AWS S3
 - **Наблюдаемость:** Grafana, Prometheus
 - **Базы данных:** PostgreSQL
 - **Инструменты:** Debian, Zed, llama.cpp
@@ -30,6 +31,7 @@ DevOps-инженер с фокусом на автоматизацию и ло�
 
 <br>
 
+<a id="en"></a>
 ### Hi, I'm Lissnikk 👋
 
 DevOps engineer focused on automation and local AI solutions. 
@@ -37,7 +39,7 @@ I believe infrastructure should be invisible, and models should run locally and 
 
 #### 🛠 Stack
 - **Languages:** Python, Go (learning/applying), Bash
-- **Infrastructure:** Kubernetes, Podman, Docker, Ansible, RouterOS, longhorn, AWS S3
+- **Infrastructure:** Kubernetes, Podman, Docker, Ansible, RouterOS, Longhorn, AWS S3
 - **Observability:** Grafana, Prometheus
 - **Databases:** PostgreSQL
 - **Tools:** Debian, Zed, llama.cpp
