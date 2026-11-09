@@ -13,7 +13,7 @@ DevOps-инженер с фокусом на автоматизацию и ло�
 - **Инфраструктура:** Kubernetes, Podman, Docker, Ansible, RouterOS, Longhorn, AWS S3
 - **Наблюдаемость:** Grafana, Prometheus
 - **Базы данных:** PostgreSQL
-- **Инструменты:** Debian, Zed, llama.cpp
+- **Инструменты:** Debian, Zed, llama.cpp, git.
 
 #### 💡 Чем занимаюсь
 - Запускаю и оптимизирую локальные LLM (llama.cpp) и интегрирую их в свои пет-проекты.
