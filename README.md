@@ -13,7 +13,7 @@ DevOps-инженер с фокусом на автоматизацию и ло�
 - **Инфраструктура:** Kubernetes, Podman, Docker, Ansible, RouterOS, Longhorn, AWS S3
 - **Наблюдаемость:** Grafana, Prometheus
 - **Базы данных:** PostgreSQL
-- **Инструменты:** Debian, Zed, llama.cpp, git.
+- **Инструменты:** Debian, Zed, llama.cpp, Git
 
 #### 💡 Чем занимаюсь
 - Запускаю и оптимизирую локальные LLM (llama.cpp) и интегрирую их в свои пет-проекты.
@@ -42,7 +42,7 @@ I believe infrastructure should be invisible, and models should run locally and 
 - **Infrastructure:** Kubernetes, Podman, Docker, Ansible, RouterOS, Longhorn, AWS S3
 - **Observability:** Grafana, Prometheus
 - **Databases:** PostgreSQL
-- **Tools:** Debian, Zed, llama.cpp
+- **Tools:** Debian, Zed, llama.cpp, Git
 
 #### 💡 What I do
 - Run and optimize local LLMs (llama.cpp) and integrate them into my pet projects.
